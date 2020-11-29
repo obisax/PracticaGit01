@@ -11,4 +11,4 @@ Respuestas:
 9.git checkout -- git-nuestro.md 
 10.git branch -D title 
 11.git checkout 0d2033f
-12 git checkout a1c7460   
+12.git checkout a1c7460   
